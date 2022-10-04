@@ -21,10 +21,5 @@
         "psr-0": { "MWSimple\\Bundle\\CrudGeneratorBundle": "" }
     },
     "target-dir": "MWSimple/Bundle/CrudGeneratorBundle",
-    "minimum-stability": "dev",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.3.x-dev"
-        }
-    }
+    "minimum-stability": "dev"
 }
