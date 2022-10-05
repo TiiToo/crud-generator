@@ -13,7 +13,6 @@
     ],
     "require": {
         "symfony/symfony": "~2.7",
-        "sensio/generator-bundle": "dev-master",
         "knplabs/knp-paginator-bundle": "2.4.0",
         "lexik/form-filter-bundle": "v4.0.0"
     },
