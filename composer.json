@@ -14,7 +14,7 @@
     "require": {
         "symfony/symfony": "~2.7",
         "knplabs/knp-paginator-bundle": "v2.7.2",
-        "tiitoo/form-filter-bundle": "v4.0.0"
+        "tiitoo/form-filter-bundle": "dev-master"
     },
     "autoload": {
         "psr-0": { "MWSimple\\Bundle\\CrudGeneratorBundle": "" }
